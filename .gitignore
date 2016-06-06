@@ -1,4 +1,4 @@
-dist
+dist/icons
 npm*.log
 node_modules
 *.sublime-*
