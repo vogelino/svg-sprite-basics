@@ -1,0 +1,29 @@
+{
+  "name": "svg-sprite-basics",
+  "version": "1.0.0",
+  "description": "Learning how to use SVG sprites in an automated fashion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vogelino/svg-sprite-basics.git"
+  },
+  "keywords": [
+    "svg",
+    "sprite",
+    "gulp",
+    "build",
+    "process",
+    "icon",
+    "font",
+    "icons"
+  ],
+  "author": "Lucas Vogel <contact@vogelino.com> (http://vogelino.com/)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/vogelino/svg-sprite-basics/issues"
+  },
+  "homepage": "https://github.com/vogelino/svg-sprite-basics#readme"
+}
